@@ -1,0 +1,6 @@
+{
+  "name": "AGENTHUB",
+  "description": "Verified Gaming Agent - James Khan (জেমস খান). Facilitating structured tournaments, verified scrims, and secure gaming transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
